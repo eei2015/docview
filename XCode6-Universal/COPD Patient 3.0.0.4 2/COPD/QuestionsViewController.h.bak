@@ -1,0 +1,29 @@
+#import <UIKit/UIKit.h>
+
+@class StepsProgressView;
+@class BaseViewController;
+@class COPDRecord;
+
+@interface QuestionsViewController : UIViewController
+{
+    CGFloat keyboardHeight;
+    UIView * contentView;
+    UIButton * nextButton;
+    UIButton * prevButton;
+    StepsProgressView * stepsProgressView;
+    UINavigationController * navigationController;
+    BOOL reportConfirmed;
+    
+    UILabel * errorPopup;
+}
+
+@property (nonatomic, retain) COPDRecord * record;
+@property (nonatomic, assign) NSMutableArray * questions;
+@property (nonatomic, retain) NSMutableArray * patientRecordSet;
+
+- (void)reportSent;
+- (void)doneClicked;
+- (void)nextClicked;
+- (void)errorWasFixed;
+
+@end

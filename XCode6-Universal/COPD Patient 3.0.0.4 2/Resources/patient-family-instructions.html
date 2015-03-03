@@ -1,0 +1,74 @@
+<html>
+<head>
+<style>
+
+body { font-size:13px;  line-height: 22px; font-family:Arial, Helvetica, sans-serif;}
+.clear {clear: both;}
+.header {clear: both;}
+h3 {}
+.header h3 {margin: 0; font-size:16px;}
+.header input {background: url("../img/line.jpg") repeat-x scroll left bottom transparent; border: medium none; line-height: 20px; width: 27.3%;}
+
+bold, strong {font-weight: bold;}
+.wrapper { margin: 0 auto;  max-width: 960px; padding: 10px 20px;}
+.wrapper ul {padding-left: 20px; padding-right: 15px;}
+.wrapper li {margin: 5px 0;}
+
+
+ul.marginleft {margin-left: 15px;}
+
+table.dischargeFormTable{ font-size:13px;}
+table.dischargeFormTable strong{}
+
+table.mediTable{width:100%; border-collapse:collapse; border-color:#ccc; border-style:solid;}
+table.mediTable td, table.mediTable th{padding:3px 0; font-size:13px;}
+table.mediTable td{border-right:1px solid #ccc; border-bottom:1px solid #ccc;}
+table.mediTable th{ border-right:1px solid #fff; border-bottom:1px solid #ccc;}
+table.mediTable th.last{border-right:1px solid #ccc;}
+table.mediTable input[type="text"]{border:none; border-bottom:1px solid #333;width:100%;}
+
+
+</style>
+</head>
+<body>
+<div class="wrapper">
+  <div class="header">
+  <table width="100%" border="0" class="dischargeFormTable">
+  <tr>
+    <td align="center" colspan="4"><h3>PATIENT/ FAMILY INSTRUCTIONS</h3></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">&nbsp;</td>
+  </tr>  
+  <tr>
+    <td align="right"><strong>Patient Name:</strong></td>
+    <td id='pnameValue'></td>
+      <td align="right"><strong>DOB:</strong></td>
+      <td id='dobValue'></td>
+  </tr>  
+  </table>
+
+    <div class="headForm">
+    
+	</div>
+  </div>
+  <div class="clear"></div>
+ <p align="center"><strong><span>DISCHARGE MEDICATIONS</span></strong></p>
+<p><span id='tableMedication'></span></p>
+
+    <p>
+    <span id="medValue"></span></p>
+    
+    
+    <p><strong><span id='appointTitle'></span></strong><br><span id='appointValue'></span></p>
+    
+    <p><strong><span id='dateTitle'></span></strong> <span id='dateValue'><span></p>
+    
+<p><strong><span id='dailyweightTitle'></span></strong><br><span id='dailyweightValue'></span>
+        </p>
+    
+        <p><strong><span id='callTitle'></span></strong></p>
+        <p class="marginleft" id='callValue'></p>
+        </div>   
+</body>
+</html>

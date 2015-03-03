@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseUrl</key>
+	<string>http://203.88.128.134/morristown/hf/docviewservice/IpadServiceData.svc/</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Morristown Patient Dev</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string>Icon.png</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>icon_retina.png</string>
+		<string>icon_iphone.png</string>
+		<string>icon@2x.png</string>
+		<string>icon.png</string>
+	</array>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>icon_retina.png</string>
+				<string>icon_iphone.png</string>
+				<string>icon@2x.png</string>
+				<string>icon.png</string>
+			</array>
+			<key>UIPrerenderedIcon</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.docviewsolutions.bonsecours.hf.patient.TEST</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>DVS-Stage</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.4</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>2.4</string>
+	<key>DischargeForm</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>backendIpadApplicationId</key>
+	<string>gE8gTXYv9YkPHHueD88Gu4ne3aUOB58TU0OhyGEH</string>
+	<key>backendIpadClientKey</key>
+	<string>S3cyOo1r9F5JCnNaJmTT4pIbP9CGabRPMqiutSzb</string>
+	<key>backendIphoneApplicationId</key>
+	<string>plyiiKTkta7aD3FrZ7S76Bucd8LspAqeqSDcQPfu</string>
+	<key>backendIphoneClientKey</key>
+	<string>HEZojokJ72MZ4UUosyUM1S00U2avFQBWYJ5fSRj9</string>
+</dict>
+</plist>

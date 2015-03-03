@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>TrL8W6WiSefdDCrLQqRlAfQFcRdugZ7S</string>
+	<key>API_SECRET</key>
+	<string>4pyprvojhvgskwqn2r1dl70fmax6iaes</string>
+	<key>AccountCode</key>
+	<string>OakRQA</string>
+	<key>AmazonAccessKey</key>
+	<string>AKIAJPJIXX6YNHNH57XQ</string>
+	<key>AmazonClinicianApplicationARN</key>
+	<string>arn:aws:sns:us-west-2:834876780914:app/APNS/OakR_HF_Clinician_QA</string>
+	<key>AmazonPatientApplicationARN</key>
+	<string>arn:aws:sns:us-west-2:834876780914:app/APNS/OakR_HF_Patient_QA</string>
+	<key>AmazonSecretKey</key>
+	<string>FvAWRFZBIwsURt/ohKf3DqKnNo7Qni8lgIprlzCj</string>
+	<key>BaseUrl</key>
+	<string>https://qa.docviewsolutions.com/OakR/hf/docviewservice/IpadServiceData.svc/</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>DVS HF.QC</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string>Icon.png</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>icon_retina.png</string>
+		<string>icon_iphone.png</string>
+		<string>icon@2x.png</string>
+		<string>icon.png</string>
+	</array>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>CFBundleIdentifier</key>
+	<string>com.DVS.OakR.HF.Patient.QA</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Revera Oak Ridge</string>
+	<key>CFBundlePackageType</key>
+	<string>????</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.0.0.4</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>3.0.0.4</string>
+	<key>CRITTERCISM_ID</key>
+	<string>5493f79a3cf56b9e0457cb3f</string>
+	<key>DischargeForm</key>
+	<string>1</string>
+	<key>Disease Name</key>
+	<string>Heart Failure</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIStatusBarHidden~ipad</key>
+	<false/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleBlackOpaque</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>backendIpadApplicationId</key>
+	<string></string>
+	<key>backendIpadClientKey</key>
+	<string></string>
+	<key>backendIphoneApplicationId</key>
+	<string></string>
+	<key>backendIphoneClientKey</key>
+	<string></string>
+</dict>
+</plist>

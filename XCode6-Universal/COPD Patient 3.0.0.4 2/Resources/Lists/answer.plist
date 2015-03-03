@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>answers</key>
+	<array>
+		<dict>
+			<key>header</key>
+			<string>score-1</string>
+			<key>score</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Normal</string>
+			<key>button-icon</key>
+			<string>icon-ask</string>
+			<key>button-title</key>
+			<string>Ask a Question</string>
+			<key>text1</key>
+			<string>You&apos;re doing great!</string>
+			<key>text2</key>
+			<string>Keep up the program. Be sure to log in again tomorrow.</string>
+		</dict>
+		<dict>
+			<key>header</key>
+			<string>score-2</string>
+			<key>score</key>
+			<string>2</string>
+			<key>title</key>
+			<string>Mild</string>
+			<key>button-icon</key>
+			<string>icon-call</string>
+			<key>button-title</key>
+			<string>Call Nurse</string>
+			<key>text1</key>
+			<string>Please use 3 to 4 puffs of Albuterol.</string>
+			<key>text2</key>
+			<string>If you have any questions, call the nurse by pressing on the button below.</string>
+		</dict>
+		<dict>
+			<key>header</key>
+			<string>score-3</string>
+			<key>score</key>
+			<string>3</string>
+			<key>title</key>
+			<string>Moderate</string>
+			<key>button-icon</key>
+			<string>icon-call</string>
+			<key>button-title</key>
+			<string>Call Pharmacy</string>
+			<key>text1</key>
+			<string>Call Pharmacy to start Atrovent @ 2 puffs QID</string>
+			<key>text2</key>
+			<string>A nurse will be contacting you soon.</string>
+		</dict>
+		<dict>
+			<key>header</key>
+			<string>score-4</string>
+			<key>score</key>
+			<string>4</string>
+			<key>title</key>
+			<string>Severe</string>
+			<key>button-icon</key>
+			<string>icon-call</string>
+			<key>button-title</key>
+			<string>Dial 911</string>
+			<key>text1</key>
+			<string>Your results didn&apos;t come through as expected.</string>
+			<key>text2</key>
+			<string>Please relax and dial 911.</string>
+		</dict>
+	</array>
+</dict>
+</plist>

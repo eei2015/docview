@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CHF-Barnabas.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>CHF-X.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>CHF.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>COPD.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>HF-M Morristown copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1B0DF82B15BD77E90000B5DC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1B2EF21C15AB7B4F000805D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1B2EF33115AB7B7C000805D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2E6587B3160C1930000BCEBC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C49ECEFF14444EED0005E8B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

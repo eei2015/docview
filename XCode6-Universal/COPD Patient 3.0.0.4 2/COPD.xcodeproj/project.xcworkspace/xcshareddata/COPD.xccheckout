@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0B39D1B7-1A09-4EB1-84EA-48EEB1881A88</string>
+	<key>IDESourceControlProjectName</key>
+	<string>COPD</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08844027-2ea9-a443-b14c-3543c8c6b2bc++1762</key>
+		<string>http://173.15.141.196:8080/svn/Docview/Mobile/HeartFaliure/IOSCode/Patient/2.4/COPDClient/COPDClient_V2.4</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>COPD.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08844027-2ea9-a443-b14c-3543c8c6b2bc++1762</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>08844027-2ea9-a443-b14c-3543c8c6b2bc++1762</key>
+		<string>http://173.15.141.196:8080/svn/Docview</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://173.15.141.196:8080/svn/Docview/Mobile/HeartFaliure/IOSCode/Patient/2.4/COPDClient/COPDClient_V2.4/COPD.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08844027-2ea9-a443-b14c-3543c8c6b2bc++1762</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08844027-2ea9-a443-b14c-3543c8c6b2bc++1762</string>
+			<key>IDESourceControlWCCName</key>
+			<string>COPD%20Patient%203.0.0.4%202</string>
+		</dict>
+	</array>
+</dict>
+</plist>

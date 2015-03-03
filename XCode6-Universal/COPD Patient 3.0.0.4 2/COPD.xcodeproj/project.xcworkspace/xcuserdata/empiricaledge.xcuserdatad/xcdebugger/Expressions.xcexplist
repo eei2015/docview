@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__49+[COPDUser UpdateScheduleNotification:PatientID:]_block_invoke:COPDUser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "response">
+            </PersistentString>
+            <PersistentString
+               value = "DeviceToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Content subscribeDeviceToTopic:]:Content.m">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Content subscribeDevice]:Content.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.AmazonAccessKey">
+            </PersistentString>
+            <PersistentString
+               value = "@&quot;AKIAJC2D63XQ2KLEB3ZA&quot;">
+            </PersistentString>
+            <PersistentString
+               value = "[self GetAmazonSNSClient]">
+            </PersistentString>
+            <PersistentString
+               value = "response.nextToken">
+            </PersistentString>
+            <PersistentString
+               value = "self.AmazonSecretKey">
+            </PersistentString>
+            <PersistentString
+               value = "deviceToken">
+            </PersistentString>
+            <PersistentString
+               value = "@&quot;eWHbpbell+bwG34SQR/zGjOWmJRMuRC5susYLvOc&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[COPDUser UpdateScheduleNotification:PatientID:]:COPDUser.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Content sendAmazonNotification:TopicARN:EndpointARN:]:Content.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self GetAmazonSNSClient]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LoginViewController loginClicked:]:LoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "succeeded">
+            </PersistentString>
+            <PersistentString
+               value = "[Content shared].copdUser.objectId">
+            </PersistentString>
+            <PersistentString
+               value = "[COPDUser user]">
+            </PersistentString>
+            <PersistentString
+               value = "[[Content shared] copdUser].objectId">
+            </PersistentString>
+            <PersistentString
+               value = "[[Content shared] user].objectId">
+            </PersistentString>
+            <PersistentString
+               value = "[COPDUser user].objectId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__36-[LoginViewController loginClicked:]_block_invoke:LoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[COPDUser user].objectId">
+            </PersistentString>
+            <PersistentString
+               value = "[COPDUser user]">
+            </PersistentString>
+            <PersistentString
+               value = "[Content shared].copdUser.objectId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Content createApplicationEndpoint:]:Content.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self GetAmazonSNSClient]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[COPDBackend saveNotificationSubscriptionInBackground:WithBlock:]:COPDBackend.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

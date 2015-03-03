@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BonSecours Live.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>BonSecours Local.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>BonSecours Test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>COPD.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>DemoA Test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>HF-B Barnabas.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>HF-X DocView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>HackettsTown Live.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>HackettsTown Stage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>MorristownHF Live.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>MorristownHF QA.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>MorristownHFLocal.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MorristownHomeCareHF Live.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>MorristownHomeCareHF Local.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>MorristownHomeCareHF Stage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1B0DF82B15BD77E90000B5DC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1B2EF21C15AB7B4F000805D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1B2EF33115AB7B7C000805D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2E6587B3160C1930000BCEBC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C49ECEFF14444EED0005E8B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F43D248E171BD50E00264833</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F43D27E0171BD6AC00264833</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F47135A417171A6200D90442</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F485A445171412E400F89766</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F49C97901717E94600F2E128</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4C90F41172E4E59001BF2D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4D3FF28172FC7DB00E60DFF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F89E4A351766049F001D49B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F89E4A5617660746001D49B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8A6BA2E178ACE4100270F56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8A7C5A917873042002A8607</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8B083DB17C6408500158A02</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8FB3DAE17A938870090EADC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

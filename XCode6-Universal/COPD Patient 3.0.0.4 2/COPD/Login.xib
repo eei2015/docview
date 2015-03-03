@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6250" systemVersion="14A389" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LoginViewController">
+            <connections>
+                <outlet property="fieldsTable" destination="2k2-XQ-hKm" id="E8B-xI-LzX"/>
+                <outlet property="view" destination="iN0-l3-epB" id="bGB-bP-9xe"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="grouped" separatorStyle="default" rowHeight="44" sectionHeaderHeight="10" sectionFooterHeight="10" translatesAutoresizingMaskIntoConstraints="NO" id="2k2-XQ-hKm">
+                    <rect key="frame" x="69" y="110" width="630" height="670"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="2k2-XQ-hKm" secondAttribute="height" multiplier="9:10" constant="27" id="srq-YE-iCl"/>
+                    </constraints>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="i9A-Jr-ge6"/>
+                        <outlet property="delegate" destination="-1" id="g1U-Rt-GTd"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="2k2-XQ-hKm" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="69" id="Doj-5M-hyk"/>
+                <constraint firstItem="2k2-XQ-hKm" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="110" id="W5U-B9-qsg"/>
+                <constraint firstAttribute="bottom" secondItem="2k2-XQ-hKm" secondAttribute="bottom" constant="244" id="mB6-XC-08W"/>
+                <constraint firstAttribute="trailing" secondItem="2k2-XQ-hKm" secondAttribute="trailing" constant="69" id="mFm-dj-U6l"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="338" y="333"/>
+        </view>
+    </objects>
+</document>

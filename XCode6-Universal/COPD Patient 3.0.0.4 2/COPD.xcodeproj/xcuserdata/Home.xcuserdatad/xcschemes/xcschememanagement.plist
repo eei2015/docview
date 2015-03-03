@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BonSecours Stage copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>COPD.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>DVS Stage copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>DocView Live copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>HF-B Barnabas.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>HF-M Morristown Live.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>HF-M Morristown.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>HF-X DocView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>HacketsTown Live copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>HacketsTown QA copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>HacketsTown Stage copy 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>HacketsTown Stage copy 4.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>HacketsTown Stage copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>HackettsTown Stage copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1B0DF82B15BD77E90000B5DC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1B2EF21C15AB7B4F000805D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1B2EF33115AB7B7C000805D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2E6587B3160C1930000BCEBC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C49ECEFF14444EED0005E8B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F43D248E171BD50E00264833</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F43D262F171BD52A00264833</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F43D27E0171BD6AC00264833</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F47135A417171A6200D90442</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F471385B17172BE400D90442</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F485A445171412E400F89766</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F49C97901717E94600F2E128</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4C90F41172E4E59001BF2D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4D3FF28172FC7DB00E60DFF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
